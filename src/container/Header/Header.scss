@@ -1,6 +1,6 @@
 #home {
   position: relative;
-  background: url("../../assets/bgIMG.png");
+  background-color: #1b1b1b;
   background-size: cover;
   background-position: center;
   background-repeat: repeat;
@@ -62,7 +62,7 @@
   .badge-cmp,
   .tag-cmp {
     padding: 1rem 2rem;
-    background: var(--white-color);
+    background: #000000;
     border-radius: 15px;
     flex-direction: row;
     width: auto;
